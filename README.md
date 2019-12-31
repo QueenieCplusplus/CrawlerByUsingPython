@@ -90,8 +90,22 @@ Core Framework:
       
      https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/QsSpider.Spider.png
       
-      
+     
+Poject Structure
 
+         spider
+             *scrapy.cfg
+             *sipder dir/
+                     _init_.py
+                     _pycache_ dir/
+                     items.py
+                     middlewares.py
+                     pipelines.py
+                     settings.py
+                     *spiders dir/
+                             _init.py
+                             _pycache_dir/
+                   
 _________________
 
 Core Module:
