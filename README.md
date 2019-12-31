@@ -30,6 +30,22 @@ HTML connection:
 
 _________________
 
+WWW & Browser
+
+從 1990 年代起發明了瀏覽器，瀏覽器從而取代了 WWW。
+
+瀏覽器建構了這些 Packet，告訴 OS 送出 Packet，將取得的資料解釋成為人類可以認知的格式的應用程式。
+格式包含了圖像、聲音、文字、影片。其實瀏覽器就是程式碼，此程式碼能執行客戶端的請求，瀏覽器能要求處理器發送資料給無線或是有線介面的應用程式。
+
+如下，說明了瀏覽器的程式碼運作內容
+
+          from urllib.request import urlopen
+
+          html = urlopen('')
+          print(html.read())
+
+_________________
+
 Core Module:
 
 * BeautifulSoup and its find() method
