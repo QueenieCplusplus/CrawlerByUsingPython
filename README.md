@@ -44,7 +44,12 @@ WWW & Browser
           html = urlopen('https://github.com/QueenieCplusplus/CrawlerByUsingPython')
           print(html.read())
           
-此程式執行後，會輸出 https://github.com 網域上的伺服器<web root>/UserID 目錄下的 CrawlerByUsingPython 頁面這 html 檔案。
+此程式執行後，會輸出 https://github.com 網域上的伺服器<web root>/UserID 目錄下的 CrawlerByUsingPython 這個網頁。
+     
+然而爬蟲時，最好是針對 Html 檔案，而非網頁。大部分網頁包含了很多格式的檔案，所以如果想取得網頁中的某檔案，可能是文字或是圖案亦或聲音檔案，例如這樣的標籤：
+
+        <img src="cutePoupou.jpg">
+        
 
 _________________
 
