@@ -57,6 +57,8 @@ _________________
 
 虛擬機安裝：
 
+          $pip install virtualenv
+
           $virtualenv crawlEnv
 
           $cd crawlEnv/
