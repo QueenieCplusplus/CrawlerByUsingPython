@@ -106,6 +106,8 @@ Code:
 
 * single domain
 
+https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/BeautifulSoup.py
+
 * cross sites
 
 _________________
