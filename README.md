@@ -109,6 +109,20 @@ Poject Structure
 Create New Class under spiders dir
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
+
+         spider
+             scrapy.cfg
+             sipder dir/
+                     _init_.py
+                     _pycache_ dir/
+                     items.py
+                     middlewares.py
+                     pipelines.py
+                     settings.py
+                     *spiders dir/
+                            *ArticleSpider.py
+                             _init.py
+                             _pycache_dir/
 _________________
 
 Core Module:
