@@ -105,7 +105,10 @@ Poject Structure
                      *spiders dir/
                              _init.py
                              _pycache_dir/
-                   
+  
+Create New Class under spiders dir
+
+https://github.com/QueenieCplusplus/CrawlerByUsingPython
 _________________
 
 Core Module:
