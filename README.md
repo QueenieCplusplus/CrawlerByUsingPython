@@ -81,6 +81,16 @@ Core Framework:
 * Scrapy
 
       pip3 install scrapy
+      
+      create a dir, says QsSpider
+      
+      cd <dir>
+      
+      scrapy startproject Spider
+      
+     https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/QsSpider.Spider.png
+      
+      
 
 _________________
 
