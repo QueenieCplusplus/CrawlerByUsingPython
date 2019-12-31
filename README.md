@@ -55,6 +55,16 @@ urlopen 是其中一個打開跨網域的遠端物件並讀取。（可讀取 ht
 
 _________________
 
+虛擬機安裝：
+
+          $virtualenv crawlEnv
+
+          $cd crawlEnv/
+
+          $source bin/activate
+
+_________________
+
 Core Module:
 
 * BeautifulSoup4 and its find() method
