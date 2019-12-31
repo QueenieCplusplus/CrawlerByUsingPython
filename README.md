@@ -68,6 +68,10 @@ _________________
 離開環境：
 
           (crawlEnv)$deactivate
+          
+也可以選擇用 Anaconda 取代 pip:
+
+          conda install -c conda-forge <module name>
 _________________
 
 Core Module:
