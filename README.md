@@ -50,6 +50,7 @@ WWW & Browser
 
         <img src="cutePoupou.jpg">
         
+因為 urlopen 功能只是打開網頁而已，即僅能讀取 html 檔案，如果要能取得檔案功能，則要使用能解析檔案的工具。
 
 _________________
 
