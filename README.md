@@ -19,6 +19,10 @@ Core Module:
 
 * Tesseract
 
+Core API:
+
+TBD
+
 _________________
 
 Code:
