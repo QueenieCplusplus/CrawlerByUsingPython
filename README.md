@@ -59,6 +59,15 @@ Core Module:
 
 * BeautifulSoup4 and its find() method
 
+
+       pip3 install beautifulsoup4
+     
+>>>   
+
+       import bs4
+       
+       from bs4 import BeautifulSoup
+
 * Scrapy
 
 * CAPTCHA
