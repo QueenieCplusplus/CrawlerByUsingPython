@@ -131,7 +131,34 @@ https://github.com/QueenieCplusplus/CrawlerByUsingPython
       $cd <專案::目錄::腳本檔案所在目錄>
       
       $scrapy runspider article.py
- 
+
+回傳>>>
+
+      INFO: Spider opened
+      INFO: Crawled 0 pages (at 0 pages/min), scraped 0 items (at 0 items/min)
+      INFO: Telnet console listening on 127.0.0.1:6023
+      DEBUG: Crawled (200) <GET https://en.wikipedia.org/robots.txt> (referer: None)
+
+      DEBUG: Crawled (200) <GET https://en.wikipedia.org/wiki/Functional_programming> (referer: None)
+
+>>>
+
+      URL is https://en.wikipedia.org/wiki/Functional_programming
+      title is [<Selector xpath='descendant-or-self::h1/text()' data='Functional programming'>]
+
+>>>
+
+      DEBUG: Crawled (200) <GET https://en.wikipedia.org/wiki/Python> (referer: None)
+
+>>>
+
+    URL is https://en.wikipedia.org/wiki/Python
+    title is [<Selector xpath='descendant-or-self::h1/text()' data='Python'>]
+    
+>>>
+
+    INFO: Closing spider (finished)
+          
 _________________
 
 Core Module:
