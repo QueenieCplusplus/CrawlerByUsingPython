@@ -123,6 +123,9 @@ https://github.com/QueenieCplusplus/CrawlerByUsingPython
                             *ArticleSpider.py
                              _init.py
                              _pycache_dir/
+                             
+https://github.com/QueenieCplusplus/CrawlerByUsingPython
+ 
 _________________
 
 Core Module:
