@@ -78,6 +78,8 @@ Core Framework:
 
 * Scrapy
 
+      pip3 install scrapy
+
 _________________
 
 Core Module:
