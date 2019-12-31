@@ -41,8 +41,10 @@ WWW & Browser
 
           from urllib.request import urlopen
 
-          html = urlopen('')
+          html = urlopen('https://github.com/QueenieCplusplus/CrawlerByUsingPython')
           print(html.read())
+          
+此程式執行後，會輸出 https://github.com 網域上的伺服器<web root>/UserID 目錄下的 CrawlerByUsingPython 頁面這 html 檔案。
 
 _________________
 
