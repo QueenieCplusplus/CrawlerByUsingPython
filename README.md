@@ -61,8 +61,13 @@ _________________
 
           $cd crawlEnv/
 
-          $source bin/activate
+啟動環境：
 
+          $source bin/activate
+          
+離開環境：
+
+          (crawlEnv)$deactivate
 _________________
 
 Core Module:
