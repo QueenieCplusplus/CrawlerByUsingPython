@@ -1,8 +1,5 @@
 # CrawlerByUsingPython
 使用 Python 爬蟲主題
-
-To Be Done...
-
 _________________
 
 HTML connection:
@@ -60,7 +57,7 @@ _________________
 
 Core Module:
 
-* BeautifulSoup and its find() method
+* BeautifulSoup4 and its find() method
 
 * Scrapy
 
