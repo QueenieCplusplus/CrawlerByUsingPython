@@ -74,6 +74,12 @@ _________________
           conda install -c conda-forge <module name>
 _________________
 
+Core Framework:
+
+* Scrapy
+
+_________________
+
 Core Module:
 
 * BeautifulSoup4 and its find() method
@@ -89,8 +95,6 @@ Core Module:
        import bs4
        
        from bs4 import BeautifulSoup
-
-* Scrapy
 
 * CAPTCHA
 
