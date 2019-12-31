@@ -37,6 +37,10 @@ WWW & Browser
 瀏覽器建構了這些 Packet，告訴 OS 送出 Packet，將取得的資料解釋成為人類可以認知的格式的應用程式。
 格式包含了圖像、聲音、文字、影片。其實瀏覽器就是程式碼，此程式碼能執行客戶端的請求，瀏覽器能要求處理器發送資料給無線或是有線介面的應用程式。
 
+urllib 是 Python 標準函式庫，即無須額外安裝其他東西，內容從網路請求資料、處理 cookies 、 處理 header 和 user agent 等 metadata 功能。
+
+urlopen 是其中一個打開跨網域的遠端物件並讀取。（可讀取 html 檔、影像檔案、其他檔案）
+
 如下，說明了瀏覽器的程式碼運作內容
 
           from urllib.request import urlopen
