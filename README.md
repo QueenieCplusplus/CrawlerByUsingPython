@@ -59,6 +59,9 @@ Core Module:
 
 * BeautifulSoup4 and its find() method
 
+       sudo easy_install pip
+
+       pip install --upgrade pip
 
        pip3 install beautifulsoup4
      
