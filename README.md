@@ -125,6 +125,12 @@ https://github.com/QueenieCplusplus/CrawlerByUsingPython
                              _pycache_dir/
                              
 https://github.com/QueenieCplusplus/CrawlerByUsingPython
+
+執行腳本>>>
+
+      $cd <專案::目錄::腳本檔案所在目錄>
+      
+      $scrapy runspider article.py
  
 _________________
 
