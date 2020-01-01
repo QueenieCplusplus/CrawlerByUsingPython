@@ -206,7 +206,7 @@ https://github.com/QueenieCplusplus/Backend_Script2/blob/master/PhpSession-maste
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/LogIn.py
 
-
+https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/UploadFile.png
 
 * Form: 
 
@@ -269,9 +269,3 @@ _________________
 Parallel
 
 IP
-
-
-
-
-
-
