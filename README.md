@@ -177,13 +177,13 @@ Core Module:
        
        from bs4 import BeautifulSoup
 
-* CAPTCHA
+* CAPTCHA (auth verifiation)
 
-* NumPy
+* NumPy (calculation)
 
-* Pillow
+* Pillow (graphics)
 
-* Tesseract
+* Tesseract (optical characters recognition)
 
 Core API:
 
