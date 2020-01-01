@@ -203,6 +203,8 @@ TBD
 
 * Auth :
 
+https://github.com/QueenieCplusplus/Backend_Script2/blob/master/PhpSession-master/README.md#cookies
+
 * Form: 
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/Form.html
