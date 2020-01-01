@@ -252,6 +252,15 @@ TBD
 
 _________________
 
+File Path
+
+      form urllib.request import urlopen
+      from io import StringIO
+      data = urlopen(''.read().decode('ascii','ignore'))
+      dataFile = StringIO(data)
+      
+_________________
+
 Encode & Decode
 
 TBD
