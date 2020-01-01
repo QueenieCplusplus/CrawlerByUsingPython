@@ -313,6 +313,9 @@ Data Storage:
 
 * CSV
 
+      import csv
+      csvReader = csv.reader(被讀取的文件物件)
+
 * MySQL
 
  https://zh.wikipedia.org/wiki/指標_(資料庫)
@@ -320,6 +323,8 @@ Data Storage:
  https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/MySQL.py
 
 * Mail
+
+ https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
 
 * PDF
 
