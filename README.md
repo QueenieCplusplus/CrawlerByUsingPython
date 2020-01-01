@@ -179,8 +179,6 @@ Core Module:
 
 * CAPTCHA (auth verifiation)
 
-* NumPy (calculation)
-
 * Pillow (graphics)
 
 * Tesseract (optical characters recognition)
