@@ -315,6 +315,8 @@ Data Storage:
 
 * MySQL
 
+https://zh.wikipedia.org/wiki/指標_(資料庫)
+
 * Mail
 
 * PDF
