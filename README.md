@@ -201,15 +201,19 @@ LogIn & Form Submit & Post Comment
 
 TBD
 
-Auth:
+* Auth:
 
-Form: https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/Form.html
+* Form: 
+
+https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/Form.html
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/FormSubmit.py
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/FormSubmit.png
 
-:
+* Upload File:
+
+TBD
 
 _________________
 
