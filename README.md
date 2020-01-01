@@ -181,6 +181,12 @@ Core Module:
 
 * Pillow (graphics)
 
+          >>> from PIL import Image, ImageFilter
+          >>> anImage = Image.open('poupou.png')
+          >>> newImage = anImage.filter(ImageFilter.GaussianBlur)
+          >>> newImage.save('CoolPouPou.jpg')
+          >>> newImage.show()
+
 * Tesseract (optical characters recognition)
 
           >>> import pytesseract
