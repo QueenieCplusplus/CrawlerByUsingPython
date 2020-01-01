@@ -213,7 +213,8 @@ https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/FormSubmit.
 
 * Upload File:
 
-TBD
+https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/UploadFile.html
+
 
 _________________
 
