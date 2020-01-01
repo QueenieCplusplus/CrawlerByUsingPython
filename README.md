@@ -179,6 +179,17 @@ Core Module:
 
 * CAPTCHA (auth verifiation)
 
+  CAPTCHA means "Completely Automted Public Turing Test to Tell Computer & Humans Apart"
+  
+  (1) 字元沒有重複，水平方向沒有越過其他字元的空間，所以為每一字母畫出方框又不相互重疊。
+  
+  (2) 沒有背景圖案。
+  
+  (3) 字型樣式少。
+  
+  (4) 背景色與字元色高對比。
+  
+  
 * Pillow (graphics)
 
 >>>
