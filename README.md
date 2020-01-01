@@ -187,6 +187,8 @@ Core Module:
 
 * unitest (利用爬蟲做簡單的單元測試)
 
+* Selenium (有截圖方法)
+
 Core API:
 
 TBD
