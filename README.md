@@ -197,6 +197,18 @@ TBD
 
 _________________
 
+Robot seems like Human
+
+* 改變 header
+
+* 處理 cookies
+
+* 處理 time
+
+* CSS 隱藏欄位
+
+_________________
+
 LogIn & Form Submit & Post Comment
 
 
