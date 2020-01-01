@@ -201,6 +201,12 @@ LogIn & Form Submit & Post Comment
 
 TBD
 
+Auth:
+
+Form: https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/Form.html
+
+Comment:
+
 _________________
 
 Code:
