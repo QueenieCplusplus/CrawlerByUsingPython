@@ -315,7 +315,9 @@ Data Storage:
 
 * MySQL
 
-https://zh.wikipedia.org/wiki/指標_(資料庫)
+ https://zh.wikipedia.org/wiki/指標_(資料庫)
+
+ https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/MySQL.py
 
 * Mail
 
