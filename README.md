@@ -191,6 +191,18 @@ TBD
 
 _________________
 
+Encode & Decode
+
+TBD
+
+_________________
+
+Cleansing Data
+
+TBD
+
+_________________
+
 Code:
 
 * single domain
