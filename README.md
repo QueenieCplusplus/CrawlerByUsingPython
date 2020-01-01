@@ -209,6 +209,16 @@ Core Module:
 
 * Selenium (有截圖方法)
 
+          from selenium import webdriver
+          from selenium.webdriver.chrome.options import Options
+
+          chrome_options = Options()
+          chrome_options.add_argument('--headless')
+          chrome_options.add_argument('--disable-gpu')
+          driver = webdriver.Chrome(chrome_options=chrome_options)
+
+          driver.get("https://github.com")
+
 Core API:
 
 TBD
