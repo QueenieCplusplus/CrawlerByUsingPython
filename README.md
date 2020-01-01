@@ -181,18 +181,29 @@ Core Module:
 
 * Pillow (graphics)
 
-          >>> from PIL import Image, ImageFilter
-          >>> anImage = Image.open('poupou.png')
-          >>> newImage = anImage.filter(ImageFilter.GaussianBlur)
-          >>> newImage.save('CoolPouPou.jpg')
-          >>> newImage.show()
+>>>
+           
+         pip3 install Pillow
+
+>>>
+
+          from PIL import Image, ImageFilter
+          anImage = Image.open('poupou.png')
+          newImage = anImage.filter(ImageFilter.GaussianBlur)
+          newImage.save('CoolPouPou.jpg')
+          newImage.show()
 
 * Tesseract (optical characters recognition)
+>>>
 
-          >>> import pytesseract
-          >>> import pytesseract as pts
-          >>> from PIL import Image
-          >>> print(pts.image_to_string(Image.open('files/Django.png')))
+         pip3 install pytesseract
+
+>>>
+
+          import pytesseract
+          import pytesseract as pts
+          from PIL import Image
+          print(pts.image_to_string(Image.open('files/Django.png')))
 
 * unitest (利用爬蟲做簡單的單元測試)
 
