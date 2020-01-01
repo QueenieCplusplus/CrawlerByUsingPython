@@ -311,21 +311,23 @@ _________________
 
 Data Storage:
 
-* CSV
-
-      import csv
-      csvReader = csv.reader(被讀取的文件物件)
-
 * MySQL
 
  https://zh.wikipedia.org/wiki/指標_(資料庫)
 
  https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/MySQL.py
 
-* Mail
+_________________
 
- https://github.com/QueenieCplusplus/Backend_Script3/blob/master/SendMail.py
+Data Format: 
 
+* CSV
+
+      import csv
+      csvReader = csv.reader(被讀取的文件物件)
+      for row in csvReader:
+          print(row)
+   
 * PDF
 
 * .docx
