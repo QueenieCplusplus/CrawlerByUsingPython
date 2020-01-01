@@ -185,6 +185,8 @@ Core Module:
 
 * Tesseract (optical characters recognition)
 
+* unitest (利用爬蟲做簡單的單元測試)
+
 Core API:
 
 TBD
