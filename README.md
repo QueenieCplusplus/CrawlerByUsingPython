@@ -200,7 +200,7 @@ _________________
 LogIn & Form Submit & Post Comment
 
 
-* Auth :
+* Authentication :
 
 https://github.com/QueenieCplusplus/Backend_Script2/blob/master/PhpSession-master/README.md#cookies
 
@@ -208,7 +208,7 @@ https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/LogIn.py
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/UploadFile.png
 
-* Form: 
+* Submit Form: 
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/Form.html
 
