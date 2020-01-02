@@ -359,6 +359,6 @@ TBD
 
 _________________
 
-Parallel
+Parallel & Threading Module
 
 IP
