@@ -357,6 +357,19 @@ Content:
 
 * JSON Parser
 
+          import json
+          jsonString = '{"arrayOfStars":[{"11":"scorpio", "02":"aqua", "03":"pisces"}],"arrayOfChineseSigns":[{"2020":"Mouse"}, {"2019":"Pig"}, {"2018":"Dog"}]}'
+          
+          jsonObj = json.loads(jsonString)
+          
+          print(jsonObj.get('arrayOfStars'))
+          >>>[{'11': 'scorpio', '02': 'aqua', '03': 'pisces'}]
+          
+          print(jsonObj.get('arrayOfChineseSigns')[1])
+          >>>{'2019': 'Pig'}
+          
+其他範例：
+
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/JSON_parser.py
 
 * XML
