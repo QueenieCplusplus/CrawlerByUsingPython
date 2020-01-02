@@ -250,6 +250,8 @@ Core API:
 
 https://github.com/QueenieCplusplus/API
 
+https://github.com/QueenieCplusplus/API_without_Doc (for Bot)
+
 _________________
 
 File Path
