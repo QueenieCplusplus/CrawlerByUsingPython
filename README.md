@@ -349,6 +349,8 @@ Encode & Decode
 
 * utf-8
 
+      response = urlopen('http://freegeoip.net/json/'+ipAddr).read().decode('utf-8')
+
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/JSON_parser.py
 
 _________________
