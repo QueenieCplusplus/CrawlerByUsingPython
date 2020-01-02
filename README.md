@@ -347,22 +347,26 @@ _________________
 
 Encode & Decode
 
-TBD
+* utf-8
+
+https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/JSON_parser.py
 
 _________________
 
 Content:
 
-JSON Parser
+* JSON Parser
 
 https://github.com/QueenieCplusplus/CrawlerByUsingPython/blob/master/JSON_parser.py
 
-XML
+* XML
 
 TBD
 
 _________________
 
-Parallel & Threading Module
+Advanced and so on:
 
-IP
+* Parallel & Threading Module
+
+* IP
