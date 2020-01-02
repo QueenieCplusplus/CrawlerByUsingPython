@@ -234,7 +234,9 @@ Core Module:
           from PIL import Image
           print(pts.image_to_string(Image.open('files/Django.png')))
 
-* unitest (利用爬蟲做簡單的單元測試)
+* unittest (利用爬蟲做簡單的單元測試)
+
+
 
 * Selenium (有截圖方法)
 
