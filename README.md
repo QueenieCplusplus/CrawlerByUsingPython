@@ -78,6 +78,8 @@ _________________
 
 Core Framework:
 
+https://github.com/QueenieCplusplus/Scrapy.spider/tree/master/QsSpider/spider
+
 * Scrapy
 
       pip3 install scrapy
