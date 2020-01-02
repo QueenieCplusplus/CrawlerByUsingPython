@@ -362,9 +362,11 @@ Content:
           
           jsonObj = json.loads(jsonString)
           
+          #輸出字典物件清單
           print(jsonObj.get('arrayOfStars'))
           >>>[{'11': 'scorpio', '02': 'aqua', '03': 'pisces'}]
           
+          #輸出字典物件
           print(jsonObj.get('arrayOfChineseSigns')[1])
           >>>{'2019': 'Pig'}
           
