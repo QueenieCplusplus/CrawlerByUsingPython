@@ -248,7 +248,7 @@ Core Module:
 
 Core API:
 
-TBD
+https://github.com/QueenieCplusplus/API
 
 _________________
 
