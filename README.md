@@ -258,12 +258,6 @@ File Path
       from io import StringIO
       data = urlopen(''.read().decode('ascii','ignore'))
       dataFile = StringIO(data)
-      
-_________________
-
-Encode & Decode
-
-TBD
 
 _________________
 
@@ -351,11 +345,17 @@ Data Cleansing:
 
 _________________
 
+Encode & Decode
+
+TBD
+
+_________________
+
 Content:
 
-Login
+JSON Parser
 
-JS
+TBD
 
 _________________
 
