@@ -234,11 +234,17 @@ Core Module:
           from PIL import Image
           print(pts.image_to_string(Image.open('files/Django.png')))
 
-* unittest (利用爬蟲做簡單的單元測試)
+* unittest (內建套件，利用爬蟲做簡單的單元測試)
 
+           import unittest
+           unittest.main()
 
+           ----------------------------------------------------------------------
+            Ran 0 tests in 0.000s
 
-* Selenium (有截圖方法)
+            OK
+
+* Selenium (額外安裝，有截圖方法)
 
 https://github.com/QueenieCplusplus/API_without_Doc/blob/master/README.md#selenium-套件
 
