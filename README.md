@@ -236,6 +236,8 @@ Core Module:
 
 * Selenium (有截圖方法)
 
+https://github.com/QueenieCplusplus/API_without_Doc/blob/master/README.md#selenium-套件
+
           from selenium import webdriver
           from selenium.webdriver.chrome.options import Options
 
